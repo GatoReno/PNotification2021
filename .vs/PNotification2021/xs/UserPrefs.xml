@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{B5985076-12C0-4CE0-82E6-980C5926AF22}|Default">
+  <MonoDevelop.Ide.ItemProperties.PNotification2021.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PNotification2021.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.PNotification2021 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
